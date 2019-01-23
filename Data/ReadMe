@@ -1,0 +1,21 @@
+Once unzipped from the link provided in the Read Me of the main folder in this repository, the following files should be present here:
+
+* LoanStats3a_securve1.csv
+* LoanStats3b_securve1.csv
+* LoanStats3c_securve1.csv
+* LoanStats3d_securve1.csv
+* LoanStats_securev1_2016Q1.csv
+* LoanStats_securev1_2016Q2.csv
+* LoanStats_securev1_2016Q3.csv
+* LoanStats_securev1_2016Q4.csv
+* LoanStats_securev1_2017Q1.csv
+* LoanStats_securev1_2017Q2.csv
+* LoanStats_securev1_2017Q3.csv
+* LoanStats_securev1_2017Q4.csv
+* LoanStats_securev1_2018Q1.csv
+* LoanStats_securev1_2018Q2.csv
+* LoanStats_securev1_2018Q3.csv
+* LoanStats_securev1_2018Q4.csv
+* LCDataDictionary.xlsx
+
+When present the 1st notebook will read in all of the data and combine into one dataframe for analysis.
